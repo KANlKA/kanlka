@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-Full Stack & AI Developer from Bengaluru
+From Bengaluru
 </h3>
 
 <br>
