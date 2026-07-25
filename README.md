@@ -71,19 +71,11 @@ Full Stack & AI Developer from Bengaluru, India 🇮🇳
 
 <hr/>
 
-<h2 align="center">🐍 Contributions</h2>
+<h2 align="center">🎮 GitHub Space Shooter</h2>
 
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kanlka/kanlka/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kanlka/kanlka/output/github-contribution-grid-snake.svg">
-
-<img alt="Snake animation"
-src="https://raw.githubusercontent.com/kanlka/kanlka/output/github-contribution-grid-snake.svg">
-
-</picture>
+<p align="center">
+  <img src="game.gif" alt="GitHub Space Shooter"/>
+</p>
 
 <hr/>
 
